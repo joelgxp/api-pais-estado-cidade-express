@@ -1,0 +1,1 @@
+{"countrys":"/countrys.json","states":"/states.json","citys":"/citys.json","statesByCountry":"/country/${countryName}/states.json","citysByCountry":"/country/${countryName}/citys.json","citysByCountryAndState":"/country/${countryName}/${stateName}/citys.json"}
